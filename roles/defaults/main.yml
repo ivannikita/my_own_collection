@@ -1,0 +1,4 @@
+---
+# defaults file for test
+path: /tmp
+content: "test start"
