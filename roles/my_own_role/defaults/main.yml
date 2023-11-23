@@ -1,4 +1,4 @@
 ---
 # defaults file for test
-path: /tmp
+path: /tmp/create.file
 content: "test start"
